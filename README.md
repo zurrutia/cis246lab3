@@ -1,1 +1,5 @@
-# cis246lab3
+# CIS246 Lab 3
+
+Zach Urrutia 
+
+Date: Nov 22, 2020
